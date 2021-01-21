@@ -91,5 +91,7 @@ export RUSTFLAGS="-Clink-arg=-fuse-ld=gold"
 ## References
 
 <https://github.com/rust-fuzz/honggfuzz-rs/commit/44167fe733ed526305d4462a126ac657179049f7>
+<br>
+
 <https://github.com/rust-fuzz/afl.rs/pull/144>
 
